@@ -1,0 +1,2 @@
+-- Smart Blood Bank Management System
+-- Table creation script
